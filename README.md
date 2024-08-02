@@ -47,3 +47,6 @@ Davide and Vivi.
 
    ## Presentation Link 
    https://www.canva.com/design/DAGMbm-90ac/A7PaucubZHsdZeNh6Dy9yw/edit?utm_content=DAGMbm-90ac&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+   ## Kanban board:
+   https://trello.com/b/wKFwOLa7/ml
