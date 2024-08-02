@@ -44,4 +44,6 @@ To improve the model's performance and address current issues, future work will 
 - **Feature Engineering**: Enhancing feature selection and transformation to improve model accuracy.
 
 Davide and Vivi.
-   pip install pandas numpy scikit-learn matplotlib seaborn
+
+   ## Presentation Link 
+   https://www.canva.com/design/DAGMbm-90ac/A7PaucubZHsdZeNh6Dy9yw/edit?utm_content=DAGMbm-90ac&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
